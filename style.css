@@ -1,0 +1,61 @@
+body {
+    margin-bottom: 50px;
+}
+
+.mainpic {
+    width: 45%;
+    display: inline-block;
+    box-sizing: border-box;
+    margin: 40px -8px 0px 50px;
+}
+
+div {
+    box-sizing: border-box;
+    width: 45%;
+    padding: 30px;
+    float: right;
+    margin: 80px 0px 1px 80px;
+    padding: 0px;
+}
+
+#sub-heading {
+    color: gray;
+    letter-spacing: 0.7px;
+    font-family: Lato, 'Noto Sans', sans-serif;
+    font-size: 14px;
+}
+
+h2 {
+    font-size: 44px;
+    letter-spacing: -1px;
+    line-height: 45px;
+    font-weight: 599;
+    opacity: 0.9;
+    margin-bottom: -5;
+    font-family: 'Source Serif Pro', 'Noto Serif', serif;
+
+}
+
+#for-teachers {
+    border: none;
+    color: white;
+    background-color: #0e5ef2;
+    padding: 17px 27px;
+    border-radius: 6px;
+    font-weight: 550;
+    font-size: 1rem;
+}
+
+.mainpara {
+    color: #21242C;
+    font-family: Lato, 'Noto Sans', sans-serif;
+    margin: 26px 0px 42px;
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 5;
+}
+
+#for-teachers:hover {
+    border: 2px dotted #0e5ef2;
+    cursor: pointer;
+}
